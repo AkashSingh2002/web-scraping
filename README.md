@@ -1,15 +1,4 @@
-### `README.md`
-
-This file provides instructions on how to set up and run the script.
-
-```markdown
-# Amazon Scraper
-
 This script scrapes product data from Amazon.in based on a list of search queries. It extracts product information from the first three pages of search results and saves the data into CSV files named according to the search query.
-
-## Requirements
-
-Before running the script, you need to install the required Python packages. You can do this by using the `requirements.txt` file provided.
 
 ### Installation
 
